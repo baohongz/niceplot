@@ -1,8 +1,0 @@
-Visit_Type	Dose
-S1	H4	jak1
-S2	H8	jak1
-S3	H12	jak1
-S4	H2	jak3
-S5	H4	jak3
-S6	H12	jak3
-S7	H24	jak3
